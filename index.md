@@ -6,7 +6,7 @@
     font-family:'Times New Roman', Times, serif;
   }
 </style>
-<link href="/Users/chasecolvin/Desktop/Steve Jobs Tribute Page/style.css" rel="stylesheet" type= "text/css">
+<link href="./style.css" rel="stylesheet" type= "text/css">
 
 <div id ="main">
 <h1 id="title" style="background-color:Gray;">Steve Jobs</h1>
